@@ -3,6 +3,10 @@ body {
   background-image: url("images/catbackground.jpeg");
   background-color: #d0e4fe;
   text-align: center;
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 h1 {
