@@ -1,6 +1,6 @@
 
 body {
-  background-image: url("images/catbackground.jpeg");
+  background-image: url("/images/catbackground.jpeg");
   background-color: #d0e4fe;
   text-align: center;
   height: 500px; /* You must set a specified height */
